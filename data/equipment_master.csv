@@ -1,0 +1,31 @@
+equipment_id,equipment_type,project,purchase_year
+EQ-001,Excavator,Dammam Port Rd,2021
+EQ-002,Dump Truck,NEOM Site A,2022
+EQ-003,Excavator,Dammam Port Rd,2017
+EQ-004,Excavator,NEOM Site A,2023
+EQ-005,Crane,Dammam Port Rd,2021
+EQ-006,Crane,NEOM Site A,2017
+EQ-007,Grader,NEOM Site A,2020
+EQ-008,Dump Truck,Riyadh Metro Ext.,2023
+EQ-009,Crane,Dammam Port Rd,2019
+EQ-010,Crane,NEOM Site A,2019
+EQ-011,Dump Truck,Jeddah Corniche,2016
+EQ-012,Bulldozer,Makkah Housing,2016
+EQ-013,Grader,Makkah Housing,2018
+EQ-014,Bulldozer,Riyadh Metro Ext.,2022
+EQ-015,Crane,Jeddah Corniche,2016
+EQ-016,Grader,NEOM Site A,2023
+EQ-017,Crane,Dammam Port Rd,2022
+EQ-018,Wheel Loader,Jeddah Corniche,2019
+EQ-019,Dump Truck,Riyadh Metro Ext.,2020
+EQ-020,Excavator,Dammam Port Rd,2021
+EQ-021,Grader,Dammam Port Rd,2018
+EQ-022,Grader,NEOM Site A,2018
+EQ-023,Grader,Jeddah Corniche,2016
+EQ-024,Dump Truck,Dammam Port Rd,2017
+EQ-025,Dump Truck,Riyadh Metro Ext.,2021
+EQ-026,Dump Truck,Jeddah Corniche,2017
+EQ-027,Bulldozer,Dammam Port Rd,2023
+EQ-028,Dump Truck,Riyadh Metro Ext.,2022
+EQ-029,Bulldozer,Dammam Port Rd,2016
+EQ-030,Wheel Loader,Dammam Port Rd,2022

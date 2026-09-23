@@ -1,0 +1,31 @@
+equipment_id,equipment_type,project,total_operating_hours,total_downtime_hours,total_fuel_l,maintenance_events,days_logged,utilization_rate_%,downtime_rate_%,fuel_efficiency_l_per_hr
+EQ-024,Dump Truck,Dammam Port Rd,418.55,112.51,9353.81,1,90,78.8,21.2,22.35
+EQ-013,Grader,Makkah Housing,484.19,103.66,7238.19,1,90,82.4,17.6,14.95
+EQ-026,Dump Truck,Jeddah Corniche,595.45,127.04,13274.68,2,90,82.4,17.6,22.29
+EQ-009,Crane,Dammam Port Rd,342.12,23.39,5472.99,1,90,93.6,6.4,16.0
+EQ-005,Crane,Dammam Port Rd,339.67,16.91,5446.77,1,90,95.3,4.7,16.04
+EQ-027,Bulldozer,Dammam Port Rd,399.42,19.22,7896.64,2,90,95.4,4.6,19.77
+EQ-021,Grader,Dammam Port Rd,385.94,16.79,5837.41,1,90,95.8,4.2,15.13
+EQ-029,Bulldozer,Dammam Port Rd,402.15,17.36,8074.13,2,90,95.9,4.1,20.08
+EQ-017,Crane,Dammam Port Rd,359.49,14.27,5686.29,1,90,96.2,3.8,15.82
+EQ-030,Wheel Loader,Dammam Port Rd,439.88,16.830000000000002,6071.65,1,90,96.3,3.7,13.8
+EQ-015,Crane,Jeddah Corniche,503.37,17.48,8140.71,1,90,96.6,3.4,16.17
+EQ-012,Bulldozer,Makkah Housing,589.17,21.04,11768.31,3,90,96.6,3.4,19.97
+EQ-001,Excavator,Dammam Port Rd,456.71,15.52,8255.289999999999,1,90,96.7,3.3,18.08
+EQ-018,Wheel Loader,Jeddah Corniche,607.03,21.02,8409.83,2,90,96.7,3.3,13.85
+EQ-023,Grader,Jeddah Corniche,537.35,17.69,8079.7,2,90,96.8,3.2,15.04
+EQ-014,Bulldozer,Riyadh Metro Ext.,571.64,18.04,11515.39,3,90,96.9,3.1,20.14
+EQ-020,Excavator,Dammam Port Rd,468.37,14.059999999999999,8474.1,2,90,97.1,2.9,18.09
+EQ-022,Grader,NEOM Site A,539.56,16.38,8049.19,2,90,97.1,2.9,14.92
+EQ-016,Grader,NEOM Site A,534.78,15.41,7990.72,2,90,97.2,2.8,14.94
+EQ-003,Excavator,Dammam Port Rd,478.75,13.69,8565.26,2,90,97.2,2.8,17.89
+EQ-011,Dump Truck,Jeddah Corniche,712.58,20.32,15786.26,2,90,97.2,2.8,22.15
+EQ-007,Grader,NEOM Site A,530.55,15.27,7877.63,2,90,97.2,2.8,14.85
+EQ-004,Excavator,NEOM Site A,673.99,17.75,12085.15,3,90,97.4,2.6,17.93
+EQ-025,Dump Truck,Riyadh Metro Ext.,698.22,18.59,15474.72,2,90,97.4,2.6,22.16
+EQ-002,Dump Truck,NEOM Site A,683.39,17.17,15172.1,2,90,97.5,2.5,22.2
+EQ-010,Crane,NEOM Site A,506.53,12.81,8094.05,1,90,97.5,2.5,15.98
+EQ-028,Dump Truck,Riyadh Metro Ext.,681.41,16.79,14886.26,2,90,97.6,2.4,21.85
+EQ-008,Dump Truck,Riyadh Metro Ext.,706.96,15.860000000000001,17073.78,2,90,97.8,2.2,24.15
+EQ-019,Dump Truck,Riyadh Metro Ext.,716.51,15.64,15851.369999999999,2,90,97.9,2.1,22.12
+EQ-006,Crane,NEOM Site A,499.01,4.45,7928.89,1,90,99.1,0.9,15.89
